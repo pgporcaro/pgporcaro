@@ -11,7 +11,7 @@
 
 - 📫 Como me achar <a href="https://www.linkedin.com/in/paulo-gustavo-de-andrade-porcaro-2062351b/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:pgporcaro@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="30px"/></a>&nbsp;&nbsp;&nbsp;
 
-- 💬 Fale comigo sobre Futebol , filmes 🎞️,séries 🍿, fotografias 📸, comidas 🥢e pets🐾.
+- 💬 Fale comigo sobre Futebol , filmes e séries 🎞️🍿, fotografias 📸, comidas 🥢e pets🐾.
 
 - ⚡️ Curiosidade sou formado Farmácia e tenho Pós Graduação em Farmácia Clinica & Prescrição Farmacêutica.
 </br>
