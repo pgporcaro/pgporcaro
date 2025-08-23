@@ -1,18 +1,18 @@
-## **Hi, I'm Paulo Gustavo de Andrade Porcaro!**
-<p align="justify">I am a Software Quality Assurance (QA) Test Analyst with one year of experience, and I currently work as a Test Automation Developer. I am extremely attentive to details. Feel free to create a pull request to contribute to any of my repositories.</p>
+## **Olá, me chamo Paulo Gustavo de Andrade Porcaro!**
+<p align="justify">Sou Analista de Teste de Qualidade de Software (QA) com um ano de experiência e atualmente trabalho como Desenvolvedor de Automação de Testes. Sou super atento aos detalhes. Sinta-se à vontade para criar um pull request para contribuir com qualquer um dos meus repositórios.</p>
 
 
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
 
-- 🌱 I’m currently learning Test Automation.
+- 🌱 Atualmente estou aprendendo Automação de Testes.
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/pgporcaro?tab=repositories).
+- 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/pgporcaro?tab=repositories).
 
-- 📫 How to find me on <a href="https://www.linkedin.com/in/paulo-gustavo-de-andrade-porcaro-2062351b/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:pgporcaro@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="30px"/></a>&nbsp;&nbsp;&nbsp;
+- 📫 Como me achar <a href="https://www.linkedin.com/in/paulo-gustavo-de-andrade-porcaro-2062351b/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="30px"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:pgporcaro@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="30px"/></a>&nbsp;&nbsp;&nbsp;
 
-- 💬 Talk to me about Soccer , Movies 🎞️,series 🍿, Photography 📸, foods 🥢and pets 🐾.
+- 💬 Fale comigo sobre Futebol , filmes 🎞️,séries 🍿, fotografias 📸, comidas 🥢e pets🐾.
 
-- ⚡️ Fun-Fact I have a degree in Pharmacy and a postgraduate degree in Clinical Pharmacy and Pharmaceutical Precribing.
+- ⚡️ Curiosidade sou formado Farmácia e tenho Pós Graduação em Farmácia Clinica & Prescrição Farmacêutica.
 </br>
 >>>>>>> d254e70bdbfb49be3b47c54e7579277ef26e1dc8
