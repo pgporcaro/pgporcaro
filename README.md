@@ -5,7 +5,7 @@
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
 
-- 🌱 Atualmente estou aprendendo Automação de Testes.
+- 🌱 Atualmente estou atuando como Tech Lead dentro de um projeto voluntário do Qa Coders e participando do Bootcamp Fullstack Developer da Akad Seguros.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/pgporcaro?tab=repositories).
 
