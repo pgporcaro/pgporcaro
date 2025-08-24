@@ -15,4 +15,3 @@
 
 - ⚡️ Curiosidade sou formado Farmácia e tenho Pós Graduação em Farmácia Clinica & Prescrição Farmacêutica.
 </br>
->>>>>>> d254e70bdbfb49be3b47c54e7579277ef26e1dc8
