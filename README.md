@@ -6,7 +6,8 @@
 
 
 - 🌱 Atualmente estou estudando HTML5 e CSS3
-         Atuei  como Tech Lead dentro de um projeto voluntário do Qa Coders
+
+  Atuei  como Tech Lead dentro de um projeto voluntário do Qa Coders
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/pgporcaro?tab=repositories).
 
