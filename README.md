@@ -5,7 +5,8 @@
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
 
-- 🌱 Atualmente estou atuando como Tech Lead dentro de um projeto voluntário do Qa Coders e participando do Bootcamp Fullstack Developer da Akad Seguros.
+- 🌱 Atualmente estou estudando HTML5 e CSS3
+         Atuei  como Tech Lead dentro de um projeto voluntário do Qa Coders
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/pgporcaro?tab=repositories).
 
