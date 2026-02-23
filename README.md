@@ -5,9 +5,9 @@
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
 
-- 🌱 Atualmente estou os cursos e bootcamps da DIO
+- 🌱 Atualmente estou me atualizando e estudando  os cursos e bootcamps da DIO.
 
-  Atuei  como Tech Lead dentro de um projeto voluntário do Qa Coders
+  Atuei  como Tech Lead dentro de um projeto voluntário do Qa Coders após me destacar em um projeto de API usando Postman e Automação  usando Robot Framework. 
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no [Github](https://github.com/pgporcaro?tab=repositories).
 
