@@ -5,7 +5,7 @@
 <img align='right' src="./images/dog.gif" width="350"></h1>
 
 
-- 🌱 Atualmente estou estudando HTML5 e CSS3
+- 🌱 Atualmente estou os cursos e bootcamps da DIO
 
   Atuei  como Tech Lead dentro de um projeto voluntário do Qa Coders
 
@@ -15,5 +15,4 @@
 
 - 💬 Fale comigo sobre Futebol , filmes e séries 🎞️🍿, fotografias 📸, comidas 🥢e pets🐾.
 
-- ⚡️ Curiosidade sou formado Farmácia e tenho Pós Graduação em Farmácia Clinica & Prescrição Farmacêutica.
 </br>
